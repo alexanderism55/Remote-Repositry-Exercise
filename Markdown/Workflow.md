@@ -19,7 +19,7 @@
 - The second reason is the fact that what you do to day will be very different
   from what you did yesterday.It is true, your environment will change all the
   time and it will be up to you to keep up with it. And what is the best way you
-  can be up-to-date all the time, **GOOGLE**.
+  can be up to date all the time, **GOOGLE**.
 
 ## 2. Brushing of Intimidation
 
