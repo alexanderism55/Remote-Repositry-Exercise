@@ -57,7 +57,7 @@
   much easier for you. One of the main reasons is the fact that it has a very
   large community, which make it possible to have a huge stream of very useful
   extensions possible. One of the best extensions we use are `prettier` and
-  `live-share`
+  `live share`
 
 - The terminal for me is by far the most interesting part of coding. I love
   operating with it, in fact it has gotten to appoint where I am opening my
