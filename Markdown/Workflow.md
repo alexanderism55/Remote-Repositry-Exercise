@@ -9,7 +9,7 @@
 
 ![a gif of a book](images/Screenshot%202022-03-09%20at%2014.10.59.gif)
 
-### I have realized that a computer programer is more of a problem solver than a coder
+### I realized that a computer programer is more of a problem solver than a coder
 
 - First of all, if you cant google then you are done fore. Because there is no
   way in hell that you will ever be able to solve every problem you find by
