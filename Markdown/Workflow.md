@@ -27,7 +27,7 @@
 
 ### Programers use way too complicated words
 
-- **repository, directory,source-code** these words are to the person hearing
+- **repository, directory,source code** these words are to the person hearing
   them the first tim as intimidating as scorching hot fire is for a child
   touching it for the first time.
 - But once you understand what they mean you realized that the hos scorching red
